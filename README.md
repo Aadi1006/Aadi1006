@@ -2,6 +2,9 @@
 So I am Aadidev. Im a Tech Enthusiast and a future Entrepreneur who is working hard to Acquire more knowledge on Every Interesting tech on the planet.
 So far I am proficient in these topics
 
+Member of Dream Team @ Amrita | Interning at Traboda
+
+Works I'm Proficient in :
  - Iot
  - FullStack Developer
  - Tester
