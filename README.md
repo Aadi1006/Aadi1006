@@ -14,7 +14,7 @@ I am eager to embark on my Software Development journey and add do more amazing 
 
 Always welcome to chat @aadidev1006@gmail.com 😁
 
-👉 [My personal website ](https://aadi1006.github.io/aadidev_portfolio/)
+👉 [My personal website ](https://aadi1006.github.io/portfolio/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi1006)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1006&layout=compact)
