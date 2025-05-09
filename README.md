@@ -10,7 +10,7 @@ Works I'm Proficient in :
  - Tester
  - Automation
    
-I am eager to embark on my Software Development journey and add do more amazing projects
+I am eager to embark on my Software Development journey and do more exiting projects
 
 Always welcome to chat @aadidev1006@gmail.com 😁
 
